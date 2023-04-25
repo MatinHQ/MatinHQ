@@ -43,3 +43,6 @@ I live in Iran 🏫. I am currently working as a Developer/ProjectManager at <a 
 <a href="https://github.com/MatinHQ">
  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=matinhq&show_icons=true&theme=dark" height="192px"/>
 </a>
+<a href="https://github.com/MatinHQ">
+ <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact" height="192px"/>
+</a>
