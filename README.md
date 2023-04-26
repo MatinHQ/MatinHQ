@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
 [![Discord](https://dcbadge.vercel.app/api/shield/960521725416706048)](https://discord.com/users/960521725416706048)
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/matin-daneshparvar-021a73253/) 
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matin-daneshparvar-021a73253/) 
  
 I am Matin 🧔
 
